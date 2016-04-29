@@ -50,6 +50,8 @@
       <DependentUpon>Database.tt</DependentUpon>
     </Compile>
     <Compile Include="Models\PetaPoco.cs" />
+    <Compile Include="Models\SalesMade.cs" />
+    <Compile Include="Models\SalesPeople.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
