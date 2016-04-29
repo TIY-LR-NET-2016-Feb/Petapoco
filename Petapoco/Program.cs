@@ -34,7 +34,7 @@ namespace Petapoco
                 new SalesMade("Edan", new DateTime(2015, 12, 07), 5255),
                 new SalesMade("Deacon", new DateTime(2016, 02, 27), 5259),
                 new SalesMade("Yardley", new DateTime(2015, 11, 23), 7244),
-                new SalesMade("Farrah", new DateTime(2015, 12, 21), 8711),
+                new SalesMade("Farrah", new DateTime(2015, 12, 21), 8711
                 new SalesMade("Deacon", new DateTime(2015, 10, 02), 740),
                 new SalesMade("Jessamine", new DateTime(2015, 04, 02), 9970),
                 new SalesMade("Isabelle", new DateTime(2015, 12, 25), 6009),
